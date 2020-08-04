@@ -5,7 +5,7 @@ date:       2020-08-04 12:32:22 -0400
 permalink:  learning_iteration
 ---
 
-I took me a while to wrap my head around the concept of the fetch method in javascript.
+It took me a while to wrap my head around the concept of the fetch method in javascript.
 
 **Let's break it down**
 
